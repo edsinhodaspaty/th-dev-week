@@ -1,0 +1,32 @@
+@media (max-width: 620px) {
+    .setas {
+        padding: 0 15px;
+        gap: 10px;
+    }
+
+    .btn-setinhas {
+        width: 20px;
+        height: 20px;
+        padding: 20px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .lista-pokemon {
+        height: 480px;
+    }
+
+    .card .img-pk {
+        max-height: 230px;
+    }
+
+    .card .info .nome-pk {
+        max-width: 50%;
+        font-size: 18px;
+    }
+
+    .card .info .vida {
+        font-size: 14px;
+    }
+}
